@@ -22,12 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable IIS
-- Item 2
-- Item 3
-- Item 4
+- PHPmangerforIIS_1.5.0
+- rewrite_amd64_en-US
+- php-7.3.8-nts-win32-VC15-x86
+- VC_redist.x86
+- Mysql-5.5.62-win32
+- osTicket-v.1.15.8
 - Item 5
-
+  
 <h2>Installation Steps</h2>
 
 <p>
