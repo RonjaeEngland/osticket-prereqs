@@ -28,7 +28,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC_redist.x86
 - Mysql-5.5.62-win32
 - osTicket-v.1.15.8
-- Item 5
+- Heidi5Q_12.3.0.6589_Setup
+
   
 <h2>Installation Steps</h2>
 
