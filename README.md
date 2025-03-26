@@ -46,6 +46,15 @@ Create an Azure Virtual Machine Windows 10, 4 vCPUs
 </p>
 <p>
 Log into the VM with Remote Desktop<br />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/e7231e0d-884b-49fc-87c0-d27fefb770b5" />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
