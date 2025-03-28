@@ -96,6 +96,18 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/91e47a50-43d4-40f5-bdd7-53052a03208a" />
 
 
+Reload IIS (Open IIS, Stop and Start the server)
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/3ace2911-237a-4a12-8ac3-5fe8495dd613" />
+
+
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/67bbfb01-4495-4165-a174-6f01691b8fdf" />
+
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
